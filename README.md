@@ -1,6 +1,9 @@
 # SmartCare-AI-Agents
 SmartCare AI Agents is a fullstack project that leverages multi-agent AI systems to provide intelligent, automated, and empathetic customer support. Built with LangChain, LLMs, and Supabase, the system integrates seamlessly with platforms like WhatsApp, web chat, and email, enabling businesses to deliver 24/7 support.
 
+
+<img width="1880" height="841" alt="Screenshot 2025-10-02 183033" src="https://github.com/user-attachments/assets/4871f85a-e80b-4c91-80ba-d0c476109c3c" />
+
 ## 1. Health Monitoring Agent ##
 
 Integrates with wearables/health APIs (Fitbit, Apple Health)
