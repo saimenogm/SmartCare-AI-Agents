@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+langchain
+google-cloud-aiplatform
+openai
+supabase
+qdrant-client
+sentence-transformers
+python-dotenv
+httpx
+python-multipart
