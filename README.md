@@ -8,35 +8,35 @@ Tracks vital signs, sleep patterns, activity levels
 Detects anomalies that might affect medication efficacy
 Techniques and Technologies: Time-series analysis, anomaly detection, API integration
 
-2. Medication Intelligence Agent
+## 2. Medication Intelligence Agent ## 
 
 Tracks medication schedule and intake
 Computer vision for pill identification (photo verification)
 Understands drug interactions using medical knowledge bases
 Techniques and Technologies: CV models, knowledge graphs, NLP for prescription parsing
 
-3. Predictive Intervention Agent
+## 3. Predictive Intervention Agent ## 
 
 ML model predicting adherence risk based on patterns
 Identifies when patient is likely to miss doses
 Adjusts reminder strategies based on effectiveness
 Techniques and Technologies: Predictive ML, reinforcement learning, personalization
 
-4. Communication Orchestrator Agent
+## 4. Communication Orchestrator Agent ## 
 
 Multi-channel reminders (SMS, voice, push, smart home devices)
 Natural language interaction for questions/concerns
 Escalation to caregivers/doctors when needed
 Techniques and Technologies: LLM integration, multi-modal communication, RAG for medical Q&A
 
-5. Care Coordination Agent
+## 5. Care Coordination Agent ## 
 
 Generates reports for healthcare providers
 Flags concerning patterns for medical review
 Manages pharmacy refill coordination
 Techniques and Technologies: Report generation, decision trees, external system integration
 
-6. Supervisor Agent (Meta-Agent)
+## 6. Supervisor Agent (Meta-Agent) ## 
 
 Coordinates all other agents
 Resolves conflicts (e.g., health data vs. schedule)
